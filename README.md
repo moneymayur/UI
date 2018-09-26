@@ -7,13 +7,14 @@ State ->  object that is owned by the component where it is declared
 props -> Component -> DOM
 
 
-Stateful Components
+- Stateful Components
+
 Stateful components have a state that gets initialized in the constructor. 
 
 constructor(props) {
   super(props);
   this.state = { count: 0 };
   
- Stateless Components
+- Stateless Components
  
  const Hello = ({ name }) => (<div>Hello, {name}!</div>);
