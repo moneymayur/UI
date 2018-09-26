@@ -1,6 +1,5 @@
-# UI
+# REACT
 
-React
 Components -> self-sustaining, independent micro-entities that describe a part of UI.
 Props -> Inputs to a function.read only
 State ->  object that is owned by the component where it is declared
