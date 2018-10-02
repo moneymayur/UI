@@ -18,3 +18,8 @@ constructor(props) {
 - Stateless Components
  
  const Hello = ({ name }) => (<div>Hello, {name}!</div>);
+ 
+ 
+Class components should always call the base constructor with props.
+
+ PureComponent-> Given an input and state the output remains constant always.
