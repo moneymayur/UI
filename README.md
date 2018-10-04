@@ -27,3 +27,16 @@ Class components should always call the base constructor with props.
  
  Pass credentials from the app add credentials:'include' in your rest calls
  
+Steps to create a react-project
+
+npm 
+sudo npm install -g create-react-app
+create-react-app projectName
+cd projectName
+npm start
+
+npm run build -> Creating prod build
+
+
+
+https://www.kirupa.com/react/setting_up_react_environment.htm
