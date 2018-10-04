@@ -37,6 +37,11 @@ npm start
 
 npm run build -> Creating prod build
 
-
+/dist -> production Build
+  index.html
+  bundle.js
+  styles.css
+  
+/src -> source Code
 
 https://www.kirupa.com/react/setting_up_react_environment.htm
